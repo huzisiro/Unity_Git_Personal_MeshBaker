@@ -54,6 +54,8 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\EditorObjExporter.cs" />
+     <None Include="Assets\SurrounDead\README.txt" />
+     <None Include="Assets\SurrounDead\ChangeLog.txt" />
  <Reference Include="UnityEditor.StandardEvents">
  <HintPath>C:/Unity_Git_Personal/Unity_Git_Personal_MeshBaker/MeshBaker/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
  </Reference>
