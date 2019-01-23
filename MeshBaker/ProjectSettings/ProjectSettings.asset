@@ -651,7 +651,7 @@ PlayerSettings:
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
   cloudProjectId: 8e59157c-bc86-40c0-8e44-cfd66ae09054
-  projectName: MeshBaker (1)
+  projectName: MeshBaker_
   organizationId: bodyfriend_games
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
