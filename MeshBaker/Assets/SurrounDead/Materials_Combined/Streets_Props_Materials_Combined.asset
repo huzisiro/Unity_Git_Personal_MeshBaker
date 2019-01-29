@@ -1,0 +1,1151 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d41887b1546f5c44ab54e7e65aad3bc, type: 3}
+  m_Name: Streets_Props_Materials_Combined
+  m_EditorClassIdentifier: 
+  version: 3252
+  materialsAndUVRects:
+  - material: {fileID: 2100000, guid: 198cbe743ccdcb4488c66f9ef1782dec, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.00024414062
+      y: 0.7512207
+      width: 0.125
+      height: 0.125
+    srcObjName: mailBox01
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: d76e67d575010e540a8b5be75d4aed7a, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.00024414062
+      y: 0.5007324
+      width: 0.25
+      height: 0.25
+    srcObjName: manhole02
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: a32348e59b4130a44882b2a8560fd4dc, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.5007324
+      y: 0.00024414062
+      width: 0.25
+      height: 0.25
+    srcObjName: guardRail_End02_R
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: 281ad0edf68ff714d82406e72459e09f, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.751709
+      y: 0.25073242
+      width: 0.125
+      height: 0.125
+    srcObjName: fireHydrant
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: 2c952da15b39f9d46a18d5f0a2e58640, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.00024414062
+      y: 0.00024414062
+      width: 0.5
+      height: 0.5
+    srcObjName: yellow_pole
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: 8c7498c33d6325d44af33622affac368, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.6262207
+      y: 0.3762207
+      width: 0.0625
+      height: 0.0625
+    srcObjName: trashCan03
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: 0e33475ea8362a3449f8290884c47575, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.7512207
+      y: 0.00024414062
+      width: 0.125
+      height: 0.125
+    srcObjName: trashCan02_B
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: 6094bf06256481d40815bfad72e3db0a, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.5007324
+      y: 0.25073242
+      width: 0.125
+      height: 0.125
+    srcObjName: trashCan01_B
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: c5b17d524067d2d45835c2d3ebc049d0, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.5007324
+      y: 0.3762207
+      width: 0.0625
+      height: 0.0625
+    srcObjName: mailbox05_B
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: c39a913b09c13454884954aebaf3caa7, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.6262207
+      y: 0.25073242
+      width: 0.125
+      height: 0.125
+    srcObjName: trafficBarricade05
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: 7f0b463d678ee1e4fa52ea5aa24c2294, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.87719727
+      y: 0.25073242
+      width: 0.0625
+      height: 0.0625
+    srcObjName: trafficCone03_B
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: b67a8453a94ee854b8d77d3eae120810, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.689209
+      y: 0.3762207
+      width: 0.03125
+      height: 0.03125
+    srcObjName: trafficSign_stName01
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: ecc81ac399ddd574486bebd8f363ef97, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.7512207
+      y: 0.12573242
+      width: 0.0625
+      height: 0.0625
+    srcObjName: trafficSign_HWayExit
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: a6caefa744a84dc45bde8311e6ae6424, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.876709
+      y: 0.00024414062
+      width: 0.0625
+      height: 0.0625
+    srcObjName: trafficSign_HWay3d_ground
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: b25d2b68338b5694fbfdd931bf76865d, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.87719727
+      y: 0.12573242
+      width: 0.0625
+      height: 0.0625
+    srcObjName: trafficSign_HWay2d_ground
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: 817d0785cca80e744bc46ccf2d5067e2, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.814209
+      y: 0.12573242
+      width: 0.0625
+      height: 0.0625
+    srcObjName: streetLight02
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: d5358d39e1acc12428fd3fdc8e2a0d1d, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.814209
+      y: 0.12573242
+      width: 0.0625
+      height: 0.0625
+    srcObjName: streetLight02
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: f716fc293cb446e4a804194b00e0a3a8, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.689209
+      y: 0.40795898
+      width: 0.03125
+      height: 0.03125
+    srcObjName: trafficSign_SpeedLimit80
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: c4c8c6909f472dc4e968ea850d7c6440, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.6262207
+      y: 0.43920898
+      width: 0.03125
+      height: 0.03125
+    srcObjName: trafficSign_ChevronR
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: 060fd8be4aafd0f40a4b5169162cb27c, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.5637207
+      y: 0.40795898
+      width: 0.03125
+      height: 0.03125
+    srcObjName: trafficSign_ChevronL
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: 93abf3422dacd9b4facc66df68accee4, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.5637207
+      y: 0.43969727
+      width: 0.03125
+      height: 0.03125
+    srcObjName: trafficSign_SpeedLimit75
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: f8ddbb5d5d70dd24cab44d8eecb53d6e, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.689209
+      y: 0.43969727
+      width: 0.03125
+      height: 0.03125
+    srcObjName: trafficSign_SpeedLimit65
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: cdafa222fbacb41458658ed7514e7bf5, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.9406738
+      y: 0.3137207
+      width: 0.03125
+      height: 0.03125
+    srcObjName: trafficSign_SpeedLimit60
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: 59686e2c00ac8164fa621692f500f799, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.751709
+      y: 0.3762207
+      width: 0.03125
+      height: 0.03125
+    srcObjName: trafficSign_SpeedLimit55
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: bb7edd6ce1a2f814c8c86edcf9084447, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.90893555
+      y: 0.3137207
+      width: 0.03125
+      height: 0.03125
+    srcObjName: trafficSign_SpeedLimit50
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: 9431ad7f9bcfb2d4aa83da9127065b81, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.94018555
+      y: 0.25073242
+      width: 0.03125
+      height: 0.03125
+    srcObjName: trafficSign_SpeedLimit40
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: 75468b4c25302c04bb97c0f7212a1655, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.87719727
+      y: 0.3137207
+      width: 0.03125
+      height: 0.03125
+    srcObjName: trafficSign_SpeedLimit30
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: b2a001d844f2e79489ef0b77fa835656, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.5637207
+      y: 0.3762207
+      width: 0.03125
+      height: 0.03125
+    srcObjName: trafficSign_SpeedLimit20
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: e160d5e41e158db46997007736087f10, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.94018555
+      y: 0.06323242
+      width: 0.03125
+      height: 0.03125
+    srcObjName: trafficSign_SpeedLimit70
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: 320bfcd064da8654fab48f9941ed2724, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.7512207
+      y: 0.1887207
+      width: 0.03125
+      height: 0.03125
+    srcObjName: trafficSign_NoParking
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: f37332785a9d54345aa1e70e20ef2174, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.90844727
+      y: 0.06323242
+      width: 0.03125
+      height: 0.03125
+    srcObjName: trafficSign_NoCrossing
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: eb5508c8d4677a045b4eea55717a952c, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.93969727
+      y: 0.00024414062
+      width: 0.03125
+      height: 0.03125
+    srcObjName: trafficSign_Gas
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: 76924e7fb04abf54eb5960ecca9251ce, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.876709
+      y: 0.06323242
+      width: 0.03125
+      height: 0.03125
+    srcObjName: trafficSign_DoNotEnter
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: d0bf1b0d4eae6fa4abbeece50d12a4bd, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.814209
+      y: 0.1887207
+      width: 0.03125
+      height: 0.03125
+    srcObjName: trafficSign_DeadEnd
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: 3f0aaae46209e6c4183a727765877ab2, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.9406738
+      y: 0.1887207
+      width: 0.03125
+      height: 0.03125
+    srcObjName: trafficSign_Crossing
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: 0405b740d9cf42040bf079ec6b9c9ac6, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.5007324
+      y: 0.43920898
+      width: 0.03125
+      height: 0.03125
+    srcObjName: trafficSign_TrafficSignal
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: f9c1a58aeb5f1844bb5db678275a8e37, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.90893555
+      y: 0.1887207
+      width: 0.03125
+      height: 0.03125
+    srcObjName: trafficSign_Worker
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: dc6a9979075f3f84eb7b468e900e7ae5, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.94018555
+      y: 0.12573242
+      width: 0.03125
+      height: 0.03125
+    srcObjName: trafficSign_yield
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  - material: {fileID: 2100000, guid: 6f0a627843fad1349a05cce40999304a, type: 2}
+    atlasRect:
+      serializedVersion: 2
+      x: 0.87719727
+      y: 0.1887207
+      width: 0.03125
+      height: 0.03125
+    srcObjName: trafficSign_stop
+    allPropsUseSameTiling: 1
+    allPropsUseSameTiling_sourceMaterialTiling:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    allPropsUseSameTiling_samplingEncapsulatinRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 1
+      height: 1
+    propsUseDifferntTiling_srcUVsamplingRect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    tilingTreatment: 0
+  resultMaterials:
+  - combinedMaterial: {fileID: 2100000, guid: 0746e81be04e5cc4f9e525f09de39b25, type: 2}
+    considerMeshUVs: 0
+    sourceMaterials:
+    - {fileID: 2100000, guid: 198cbe743ccdcb4488c66f9ef1782dec, type: 2}
+    - {fileID: 2100000, guid: d76e67d575010e540a8b5be75d4aed7a, type: 2}
+    - {fileID: 2100000, guid: a32348e59b4130a44882b2a8560fd4dc, type: 2}
+    - {fileID: 2100000, guid: 281ad0edf68ff714d82406e72459e09f, type: 2}
+    - {fileID: 2100000, guid: 2c952da15b39f9d46a18d5f0a2e58640, type: 2}
+    - {fileID: 2100000, guid: 8c7498c33d6325d44af33622affac368, type: 2}
+    - {fileID: 2100000, guid: 0e33475ea8362a3449f8290884c47575, type: 2}
+    - {fileID: 2100000, guid: 6094bf06256481d40815bfad72e3db0a, type: 2}
+    - {fileID: 2100000, guid: c5b17d524067d2d45835c2d3ebc049d0, type: 2}
+    - {fileID: 2100000, guid: c39a913b09c13454884954aebaf3caa7, type: 2}
+    - {fileID: 2100000, guid: 7f0b463d678ee1e4fa52ea5aa24c2294, type: 2}
+    - {fileID: 2100000, guid: b67a8453a94ee854b8d77d3eae120810, type: 2}
+    - {fileID: 2100000, guid: ecc81ac399ddd574486bebd8f363ef97, type: 2}
+    - {fileID: 2100000, guid: a6caefa744a84dc45bde8311e6ae6424, type: 2}
+    - {fileID: 2100000, guid: b25d2b68338b5694fbfdd931bf76865d, type: 2}
+    - {fileID: 2100000, guid: 817d0785cca80e744bc46ccf2d5067e2, type: 2}
+    - {fileID: 2100000, guid: d5358d39e1acc12428fd3fdc8e2a0d1d, type: 2}
+    - {fileID: 2100000, guid: f716fc293cb446e4a804194b00e0a3a8, type: 2}
+    - {fileID: 2100000, guid: c4c8c6909f472dc4e968ea850d7c6440, type: 2}
+    - {fileID: 2100000, guid: 060fd8be4aafd0f40a4b5169162cb27c, type: 2}
+    - {fileID: 2100000, guid: 93abf3422dacd9b4facc66df68accee4, type: 2}
+    - {fileID: 2100000, guid: f8ddbb5d5d70dd24cab44d8eecb53d6e, type: 2}
+    - {fileID: 2100000, guid: cdafa222fbacb41458658ed7514e7bf5, type: 2}
+    - {fileID: 2100000, guid: 59686e2c00ac8164fa621692f500f799, type: 2}
+    - {fileID: 2100000, guid: bb7edd6ce1a2f814c8c86edcf9084447, type: 2}
+    - {fileID: 2100000, guid: 9431ad7f9bcfb2d4aa83da9127065b81, type: 2}
+    - {fileID: 2100000, guid: 75468b4c25302c04bb97c0f7212a1655, type: 2}
+    - {fileID: 2100000, guid: b2a001d844f2e79489ef0b77fa835656, type: 2}
+    - {fileID: 2100000, guid: e160d5e41e158db46997007736087f10, type: 2}
+    - {fileID: 2100000, guid: 320bfcd064da8654fab48f9941ed2724, type: 2}
+    - {fileID: 2100000, guid: f37332785a9d54345aa1e70e20ef2174, type: 2}
+    - {fileID: 2100000, guid: eb5508c8d4677a045b4eea55717a952c, type: 2}
+    - {fileID: 2100000, guid: 76924e7fb04abf54eb5960ecca9251ce, type: 2}
+    - {fileID: 2100000, guid: d0bf1b0d4eae6fa4abbeece50d12a4bd, type: 2}
+    - {fileID: 2100000, guid: 3f0aaae46209e6c4183a727765877ab2, type: 2}
+    - {fileID: 2100000, guid: 0405b740d9cf42040bf079ec6b9c9ac6, type: 2}
+    - {fileID: 2100000, guid: f9c1a58aeb5f1844bb5db678275a8e37, type: 2}
+    - {fileID: 2100000, guid: dc6a9979075f3f84eb7b468e900e7ae5, type: 2}
+    - {fileID: 2100000, guid: 6f0a627843fad1349a05cce40999304a, type: 2}
+  doMultiMaterial: 0
