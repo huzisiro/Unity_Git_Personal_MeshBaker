@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/SurrounDead/Scenes/Assets_Preview_Optimizing.unity
+- path: Assets/Env/SurrounDead/Scenes/Env_Stage.unity
   isLoaded: 1
   isActive: 1
